@@ -8,10 +8,10 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | | | 
-| Week 2 Status Report | | |
-| Week 3 Status Report | | |
-| Week 4 Status Report | | |
+| Week 1 Status Report | Trying to contact mentor to discuss the project | | 
+| Week 2 Status Report | Trying to contact mentor to discuss the project | |
+| Week 3 Status Report | Was assigned a Project mentor and have started discusing the project | |
+| Week 4 Status Report | The repository regarding initial code imported into zowe and some unit tests were made | https://github.com/zowe/zowe-client-java-sdk/pull/3 |
 | Week 5 Status Report | | |
 | Week 6 Status Report | | |
 | Week 7 Status Report | | |
