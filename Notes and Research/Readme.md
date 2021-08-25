@@ -1,5 +1,15 @@
 # Notes and Research Folder
 
-- Description of any other tools, technologies and APIs needed.  
-- Links to reference guides, or examples.
-- Description of development environment or link to development environment
+# Libraries
+
+- [Mockito](https://site.mockito.org/)
+
+# References
+
+- [Lombok](https://projectlombok.org/features/all)
+- [Restful java client](https://mkyong.com/webservices/jax-rs/restfull-java-client-with-java-net-url)
+- [Object mapper tutorial](https://www.baeldung.com/jackson-object-mapper-tutorial)
+
+# Dev Environment
+
+- Used Intellij idea community edition for the mentorship[Link](https://www.jetbrains.com/idea/download/)
