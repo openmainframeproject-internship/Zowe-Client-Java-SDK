@@ -12,6 +12,9 @@ a better understanding of the problems you encountered during the developmemnt o
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
 
+Source code:
+https://github.com/zowe/zowe-client-java-sdk
+
 ## Project Team
-- *Tomas Cech*  - *Broadcom* - Mentor
+- *Leonid Baranov*  - *Broadcom* - Mentor
 - *Nikunj Goyal* - *University* - Mentee
